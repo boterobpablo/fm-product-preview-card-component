@@ -43,10 +43,6 @@ body {
   gap: 0;
 }
 
-.card article {
-  border-radius: 20px;
-}
-
 .card img {
   max-width: 355px;
   border-radius: 14px 14px 0 0;
@@ -72,7 +68,7 @@ body {
   letter-spacing: 3px;
 }
 
-.text h2 {
+.text h1 {
   font-family: "Fraunces", serif;
   font-size: 34px;
 }
