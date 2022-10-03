@@ -1,4 +1,7 @@
 # Frontend Mentor Challenges
 
-This repository contains the solution to the **Product preview card component** challenge 
-from [Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa).   
+This repository contains the solution to the 
+[Product preview card component](https://www.frontendmentor.io/solutions/product-preview-card-component-L45o0XuIx1) 
+challenge from **Frontend Mentor**  
+
+You can see the live version of the soluction [here](https://boterobpablo.github.io/fm-product-preview-card-component/)
